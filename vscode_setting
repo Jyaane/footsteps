@@ -1,0 +1,36 @@
+{
+  "editor.fontSize": 16,
+  "files.exclude": {
+    "**/.eslint": true
+  },
+  "extensions.ignoreRecommendations": true,
+  "terminal.integrated.fontSize": 16,
+  "editor.cursorWidth": 2,
+  "files.autoSave": "afterDelay",
+  "editor.minimap.enabled": true,
+  "breadcrumbs.enabled": true,
+  "workbench.startupEditor": "welcomePage",
+  "editor.tabSize": 2,
+  "workbench.editor.enablePreview": false,
+  // "[javascript]": {
+  //     "editor.defaultFormatter": "HookyQR.beautify"
+  // },
+  // "vscode_custom_css.imports": [
+  //     "file:///C:/users/jyaane/.synthwave84.css"
+  // ],
+  // "vscode_custom_css.policy": true,
+  "window.zoomLevel": 0,
+  "files.defaultLanguage": "javascript",
+  "fileheader.configObj": {},
+  // "fileheader.customMade": {}, // 头部注释
+  "fileheader.cursorMode": {},
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "[javascript]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  }, // 函数注释
+  "prettier.semi": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
